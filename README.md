@@ -9,7 +9,9 @@ https://user-images.githubusercontent.com/87510462/276599241-842b1617-7c4f-4314-
 
 Line color to Cable
 $${\color{Greenyellow}HDMI: green}$$
-$${\color{red}XLR: red}$$
+$${\color{Yellow}DisplayPort: yellow}$$
 $${\color{LightSkyBlue}SDI: blue}$$
+$${\color{red}XLR: red}$$
 $${\color{Magenta}Other Audio: purple}$$
+$${\color{Gray}Lan: gray}$$
 $${\color{black}Any Cable: black}$$
